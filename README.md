@@ -70,8 +70,8 @@ team-alpha/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/TEAM-ALPHA.git
-cd TEAM-ALPHA
+git clone https://github.com/swetsanjeev/GhostsOfSRM.git
+cd GhostsOfSRM
 ```
 
 ### 2. Setup Backend
