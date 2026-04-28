@@ -6,7 +6,14 @@
 > **Year/Sem:** III Year / VI Sem  
 
 ---
+# Team Members
 
+> **Jissa** - RA23110560187  
+> **Rishabh Raj** - RA2311056010194
+> **Swet Sanjeev** -RA2311056010229
+> **Section** - A01
+
+---
 ## Project Description
 
 A full-stack web application to manage student team members. Built with **React.js** on the frontend and **Node.js + Express + MongoDB** on the backend. Users can add team members with profile photos, view all members in a card layout, and view detailed profiles for individual members.
