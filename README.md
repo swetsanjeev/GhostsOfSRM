@@ -6,12 +6,12 @@
 > **Year/Sem:** III Year / VI Sem  
 
 ---
-# Team Members
+## Team Members
 
-> **Jissa** - RA23110560187
-> **Rishabh Raj** - RA2311056010194
-> **Swet Sanjeev** -RA2311056010229
-> **Section** - A01
+- **Jissa** - RA23110560187  
+- **Rishabh Raj** - RA2311056010194  
+- **Swet Sanjeev** - RA2311056010229  
+- **Section** - A01
 
 ---
 ## Project Description
